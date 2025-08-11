@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+pydantic
+python-multipart
+aiofiles
+websockets
+python-dotenv
+email-validator
+requests
+openai
+imageio
+imageio[ffmpeg]
+openai-agents
+reportlab>=4.0.0
+Pillow>=10.0.0

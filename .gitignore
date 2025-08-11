@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environment
+venv/
+.venv
+
+# Environment variables
+.env
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Compiled files
+*.log
+*.sqlite3
+
+# Python packaging
+*.egg-info/
+dist/
+build/
+
+# Recordings and output
+recordings/
+recordings_test/
+samples/
+static/
+
+# Secret keys or sensitive data
+key.txt
+notes.txt
+
+# Ignore generated transcripts or reports if any
+*.pdf
+*.json
+*.mp3
+*.mp4
+*.wav
+*.zip
+
+# Jupyter Notebooks checkpoints (if you use them)
+.ipynb_checkpoints/
